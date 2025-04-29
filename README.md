@@ -5,10 +5,10 @@
 👩‍💻 I enjoy creating user-friendly applications</br>
 
 📫 Connect with me!</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: ramyanayak611@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: ramyanayak611@gmail.com</br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramyanayak11) 
 
 # 💻 Tech Stack:
