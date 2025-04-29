@@ -5,7 +5,7 @@
 👩‍💻 I enjoy creating user-friendly applications</br>
 
 📫 Connect with me!</br>
-&nbsp;&nbsp;&nbsp;Email: ramyanayak611@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: ramyanayak611@gmail.com
 
 
 ## 🌐 Socials:
