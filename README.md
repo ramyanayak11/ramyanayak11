@@ -4,9 +4,8 @@
 🌱 I'm currently in my final semester</br>
 👩‍💻 I enjoy creating user-friendly applications</br>
 
-📫 Connect with me!
-    [LinkedIn](https://www.linkedin.com/in/ramyanayak11/)</br>
-    Email: ramyanayak611@gmail.com
+📫 Connect with me!</br>
+</t>Email: ramyanayak611@gmail.com
 
 
 ## 🌐 Socials:
