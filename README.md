@@ -1,7 +1,6 @@
 ## Hi, I'm Ramya!
 
-📚 Computer Science student at San José State University</br>
-🎓 I'm currently in my final semester</br>
+🎓 I recently obtained my Bachelor's in Computer Science</br>
 👩‍💻 I enjoy creating user-friendly applications</br></br>
 
 
