@@ -1,4 +1,4 @@
-## Hi, I'm Ramya!
+## Hey, I'm Ramya!
 
 🎓 I recently obtained my Bachelor's in Computer Science</br>
 👩‍💻 I enjoy creating user-friendly applications</br></br>
