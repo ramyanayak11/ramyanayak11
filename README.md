@@ -9,7 +9,6 @@
 </br>
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ramyanayak11&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyanayak11&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</br>
+
 ## 🌐 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramyanayak11) 
