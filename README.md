@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 I'm a graduate student pursuing my Master's in Computer Science<br>
-👩‍💻 I enjoy creating user-friendly applications and exploring playful designs<br>
+👩‍💻 I enjoy creating user-friendly applications and exploring playful designs<br><br>
 
 
 # 💻 Tech Stack:
@@ -25,7 +25,7 @@
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-<br>
+<br><br>
 
 
 ## 🌐 Socials:
